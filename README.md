@@ -83,3 +83,8 @@ Visit: `http://127.0.0.1:8000`
   - Delivering personalised dashboards to mobile app users.
   - Backend system for tailored notifications and user data views.
   - Extensible platform for content-driven applications.
+
+## 👏 Credits
+Built by Arav Baboolal & Forage — 2025 🔥
+
+For practice and educational use.
